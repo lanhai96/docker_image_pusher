@@ -8,3 +8,6 @@ shuiche/mind-map
 dataroom
 gcpaas/dataroom
 whisper-webui
+python-38:latest
+python:latest
+jetbrains/pycharm-community
