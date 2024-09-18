@@ -7,3 +7,4 @@ xhofe/alist:latest
 shuiche/mind-map
 dataroom
 gcpaas/dataroom
+whisper-webui
